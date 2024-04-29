@@ -1,0 +1,175 @@
+@charset "UTF-8";
+
+header {
+    background-color: #C60000;
+    padding: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.minhalogo {
+    width: 10%;
+    align-items: center;
+}
+
+.introdução {
+    background-color: #C2C2C2;
+    padding: 100px;
+    text-align: center;
+}
+
+.stars1 {
+    padding: 50px;
+    width: 20%;
+}
+
+.stars2 {
+    padding: 50px;
+    width: 20%;
+}
+
+.sobremim {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.textosobremim {
+    text-align: center;
+    align-self: baseline;
+}
+
+.olá {
+    padding: 80px;
+    
+}
+
+.fotominha1 {
+    width: 25%;
+    padding: 50px;
+}
+
+.portfólio {
+    background-color: #9e9e9e;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.CSS {
+    width: 12%;
+    padding: 50px;
+}
+
+.HTML {
+    width: 12%;
+    padding: 50px;
+}
+
+.javascript {
+    width: 10%;
+    padding: 50px;
+}
+
+.comunicação {
+    width: 8%;
+    padding: 50px;
+}
+
+.liderança {
+    width: 8%;
+    padding: 50px;
+}
+
+.organização {
+    width: 8%;
+    padding: 50px;
+}
+
+.emocional {
+    width: 8%;
+    padding: 50px;
+}
+
+.projetos {
+    text-align: center;
+}
+
+.produto {
+    width: 45%;
+    padding: 50px;
+    display: flex;
+}
+
+.carrossel {
+    width: 45%;
+}
+
+.parallax {
+    width: 45%;
+    padding: 50px;
+}
+
+.contato {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.github {
+    width: 8%;
+}
+
+.linkedin {
+    width: 8%;
+}
+
+.instagram {
+    width: 8%;
+}
+
+.threads {
+    width: 7%;
+}
+
+.conclusão {
+    text-align: center;
+}
+
+.fotominha2 {
+    width: 20%;
+    padding: 50px;
+}
+
+footer {
+    padding: 28px;
+    background-color: #C60000;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.github2 {
+    width: 4%;
+}
+
+.linkedin2 {
+    width: 4%;
+}
+
+.instagram2 {
+    width: 4%;
+}
+
+.threads2 {
+    width: 3%;
+}
+
+
+
+
